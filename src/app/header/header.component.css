@@ -1,0 +1,18 @@
+.b2{
+    border: 2px solid red;
+    padding: 20px;
+    border-width: 2px;
+    width: 300px;
+    height: 100px;
+    border-bottom-left-radius: 15px; 
+    margin-left: 30px;
+    position: fixed;
+    margin-top: 10px;
+
+  }
+  .button{
+      color: green;
+      margin-left: 100px;
+      margin-top:85px;
+
+  }
